@@ -1,0 +1,5 @@
+function caller()
+{
+	
+	return "test";
+}
